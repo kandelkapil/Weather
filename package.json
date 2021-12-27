@@ -1,9 +1,9 @@
 {
-  "name": "socreact",
+  "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "16.13.1",
+    "npm": "8.3.0",
   },
   "dependencies": {
     "@popperjs/core": "^2.9.3",
@@ -39,6 +39,12 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
+      
+      
+      ]
+      
+      
+      
     ]
   }
 }
